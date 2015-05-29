@@ -1,0 +1,20 @@
+c:\users\su\documents\visual studio 2013\Projects\MovieSpider2\MovieSpider2\obj\Debug\MovieSpider2.csprojResolveAssemblyReference.cache
+c:\users\su\documents\visual studio 2013\Projects\MovieSpider2\MovieSpider2\obj\Debug\MovieSpider2.Form1.resources
+c:\users\su\documents\visual studio 2013\Projects\MovieSpider2\MovieSpider2\obj\Debug\MovieSpider2.Properties.Resources.resources
+c:\users\su\documents\visual studio 2013\Projects\MovieSpider2\MovieSpider2\obj\Debug\MovieSpider2.csproj.GenerateResource.Cache
+c:\users\su\documents\visual studio 2013\Projects\MovieSpider2\MovieSpider2\bin\Debug\MovieSpider2.exe
+c:\users\su\documents\visual studio 2013\Projects\MovieSpider2\MovieSpider2\bin\Debug\MovieSpider2.pdb
+c:\users\su\documents\visual studio 2013\Projects\MovieSpider2\MovieSpider2\bin\Debug\HtmlAgilityPack.dll
+c:\users\su\documents\visual studio 2013\Projects\MovieSpider2\MovieSpider2\bin\Debug\HtmlAgilityPack.xml
+c:\users\su\documents\visual studio 2013\Projects\MovieSpider2\MovieSpider2\obj\Debug\MovieSpider2.exe
+c:\users\su\documents\visual studio 2013\Projects\MovieSpider2\MovieSpider2\obj\Debug\MovieSpider2.pdb
+E:\Codes\MovieSpider2\MovieSpider2\obj\Debug\MovieSpider2.exe
+E:\Codes\MovieSpider2\MovieSpider2\obj\Debug\MovieSpider2.pdb
+E:\Codes\MovieSpider2\MovieSpider2\bin\Debug\MovieSpider2.exe
+E:\Codes\MovieSpider2\MovieSpider2\bin\Debug\MovieSpider2.pdb
+E:\Codes\MovieSpider2\MovieSpider2\bin\Debug\HtmlAgilityPack.dll
+E:\Codes\MovieSpider2\MovieSpider2\bin\Debug\HtmlAgilityPack.xml
+E:\Codes\MovieSpider2\MovieSpider2\obj\Debug\MovieSpider2.csprojResolveAssemblyReference.cache
+E:\Codes\MovieSpider2\MovieSpider2\obj\Debug\MovieSpider2.Form1.resources
+E:\Codes\MovieSpider2\MovieSpider2\obj\Debug\MovieSpider2.Properties.Resources.resources
+E:\Codes\MovieSpider2\MovieSpider2\obj\Debug\MovieSpider2.csproj.GenerateResource.Cache
